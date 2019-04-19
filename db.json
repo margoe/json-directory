@@ -1,13 +1,5 @@
 {
-	"posts":[
-	  {
-	     "id":1,
-	     "title":  "hello"
-
-	  }
-
-	],
-	"coordinates":[
+   "coordinates":[
 	
 	{"id":"a","value":"31,49"},
 	{"id":"b","value":"44,67"},
